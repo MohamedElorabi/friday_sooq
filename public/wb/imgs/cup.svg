@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="212" height="219" viewBox="0 0 212 219">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-10, .cls-5 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #f7af18;
+        stroke-width: 11px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-8 {
+        fill: #f39415;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.363" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f37f1b"/>
+      <stop offset="1" stop-color="#f5b644"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#edbc6d"/>
+      <stop offset="1" stop-color="#f29727"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="-0.585" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbcd43"/>
+      <stop offset="1" stop-color="#f7af17"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="-0.585" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6af35"/>
+      <stop offset="1" stop-color="#f48c1a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#face4a"/>
+      <stop offset="1" stop-color="#f39a1b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1dd68"/>
+      <stop offset="1" stop-color="#f29e14"/>
+    </linearGradient>
+  </defs>
+  <g id="cup" transform="translate(-101 -366)">
+    <path id="Polygon_18" data-name="Polygon 18" class="cls-1" d="M17,0,34,62H0Z" transform="translate(189 493)"/>
+    <rect id="Rectangle_811" data-name="Rectangle 811" class="cls-2" width="153" height="21" rx="4" transform="translate(130 366)"/>
+    <path id="Rectangle_823" data-name="Rectangle 823" class="cls-3" d="M4,0H73a4,4,0,0,1,4,4V16a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(168 554)"/>
+    <rect id="Rectangle_822" data-name="Rectangle 822" class="cls-4" width="95" height="16" rx="4" transform="translate(159 569)"/>
+    <g id="Rectangle_814" data-name="Rectangle 814" class="cls-5" transform="translate(101 401)">
+      <path class="cls-9" d="M15,0H51a0,0,0,0,1,0,0V79a0,0,0,0,1,0,0H45A45,45,0,0,1,0,34V15A15,15,0,0,1,15,0Z"/>
+      <path class="cls-10" d="M15,5.5H45.5a0,0,0,0,1,0,0v68a0,0,0,0,1,0,0H45A39.5,39.5,0,0,1,5.5,34V15A9.5,9.5,0,0,1,15,5.5Z"/>
+    </g>
+    <g id="Rectangle_821" data-name="Rectangle 821" class="cls-5" transform="translate(262 401)">
+      <path class="cls-9" d="M0,0H36A15,15,0,0,1,51,15V34A45,45,0,0,1,6,79H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-10" d="M5.5,5.5H36A9.5,9.5,0,0,1,45.5,15V34A39.5,39.5,0,0,1,6,73.5H5.5a0,0,0,0,1,0,0V5.5A0,0,0,0,1,5.5,5.5Z"/>
+    </g>
+    <path id="Rectangle_812" data-name="Rectangle 812" class="cls-6" d="M0,0H133a0,0,0,0,1,0,0V95a44,44,0,0,1-44,44H44A44,44,0,0,1,0,95V0A0,0,0,0,1,0,0Z" transform="translate(140 387)"/>
+    <path id="Rectangle_813" data-name="Rectangle 813" class="cls-7" d="M0,0H118a0,0,0,0,1,0,0V95a44,44,0,0,1-44,44H44A44,44,0,0,1,0,95V0A0,0,0,0,1,0,0Z" transform="translate(155 387)"/>
+    <path id="Polygon_17" data-name="Polygon 17" class="cls-8" d="M33,0,43.23,20.694,66,24.064,49.552,40.224,53.4,63,33,52.294,12.6,63l3.843-22.777L0,24.064l22.77-3.37Z" transform="translate(174 414)"/>
+  </g>
+</svg>

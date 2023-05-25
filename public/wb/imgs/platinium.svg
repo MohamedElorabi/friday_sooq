@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="57" viewBox="0 0 49 57">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.2" y1="-0.049" x2="0.841" y2="0.727" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6eb2ff"/>
+      <stop offset="1" stop-color="#0072a5"/>
+    </linearGradient>
+  </defs>
+  <g id="platinium" transform="translate(-317.461 -231.254)">
+    <path id="BG" d="M42.75,0,57,24.5,42.75,49H14.25L0,24.5,14.25,0Z" transform="translate(366.461 231.254) rotate(90)" fill="url(#linear-gradient)"/>
+    <g id="Icon" transform="translate(184.461 10.254)">
+      <path id="Subtraction_23" data-name="Subtraction 23" d="M4.008-9.266v0L1.438-21.256h10v7.42A9.941,9.941,0,0,0,4.009-9.268Zm16.087-1.052v0a9.986,9.986,0,0,0-7.654-3.565v-7.371h10L20.1-10.32Z" transform="translate(145.562 258.256)" fill="#fff"/>
+      <circle id="Ellipse_205" data-name="Ellipse 205" cx="9" cy="9" r="9" transform="translate(149 245)" fill="#fff"/>
+      <path id="Shape" d="M6.118.191l1.24,2.632a.328.328,0,0,0,.246.187l2.772.422a.346.346,0,0,1,.181.583L8.55,6.063a.352.352,0,0,0-.094.3L8.93,9.258a.33.33,0,0,1-.473.36L5.977,8.253a.313.313,0,0,0-.3,0L3.195,9.619a.33.33,0,0,1-.473-.36l.473-2.893a.352.352,0,0,0-.094-.3L1.1,4.015a.346.346,0,0,1,.181-.583l2.772-.422a.328.328,0,0,0,.246-.187L5.533.191a.32.32,0,0,1,.585,0Z" transform="translate(152.174 249.172)" fill="#4c9ee3" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

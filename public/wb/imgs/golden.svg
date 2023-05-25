@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="57" viewBox="0 0 49 57">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.2" y1="-0.049" x2="0.841" y2="0.727" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe26e"/>
+      <stop offset="1" stop-color="#c9852a"/>
+    </linearGradient>
+  </defs>
+  <g id="golden" transform="translate(-317.461 -231.254)">
+    <path id="BG" d="M42.75,0,57,24.5,42.75,49H14.25L0,24.5,14.25,0Z" transform="translate(366.461 231.254) rotate(90)" fill="url(#linear-gradient)"/>
+    <g id="Icon" transform="translate(326.461 246.253)">
+      <g id="Icon-2" data-name="Icon" transform="translate(0 0)">
+        <g id="Group_944" data-name="Group 944" transform="translate(0 0)">
+          <path id="Path_820" data-name="Path 820" d="M35.194,75.176V71.3H15.815v3.876H10v3.876A5.82,5.82,0,0,0,17.559,84.6a9.693,9.693,0,0,0,6.008,3.949v6.008H21.627a3.874,3.874,0,0,0-3.876,3.876h15.5a3.874,3.874,0,0,0-3.876-3.876H27.44V88.547A9.693,9.693,0,0,0,33.448,84.6a5.82,5.82,0,0,0,7.559-5.546V75.176ZM15.815,82.564A3.516,3.516,0,0,1,12.3,79.052V77.112h3.512v1.939a9.627,9.627,0,0,0,.636,3.455A3.865,3.865,0,0,1,15.815,82.564Zm22.891-3.512a3.516,3.516,0,0,1-3.512,3.512,3.864,3.864,0,0,1-.636-.057,9.7,9.7,0,0,0,.636-3.455V77.112h3.512Z" transform="translate(-10 -71.3)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Shape" d="M5.215.157,6.236,2.325a.27.27,0,0,0,.2.154l2.283.348a.285.285,0,0,1,.149.48L7.218,4.994a.29.29,0,0,0-.077.249l.39,2.382a.272.272,0,0,1-.39.3L5.1,6.8a.258.258,0,0,0-.25,0L2.807,7.922a.272.272,0,0,1-.39-.3l.39-2.382a.29.29,0,0,0-.077-.249L1.078,3.306a.285.285,0,0,1,.149-.48l2.283-.348a.27.27,0,0,0,.2-.154L4.733.157a.263.263,0,0,1,.482,0Z" transform="translate(10.529 3.771)" fill="#e1af49" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

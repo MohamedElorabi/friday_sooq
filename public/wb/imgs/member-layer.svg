@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="75" viewBox="0 0 65 75">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.2" y1="-0.049" x2="0.841" y2="0.727" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe26e"/>
+      <stop offset="1" stop-color="#c9852a"/>
+    </linearGradient>
+  </defs>
+  <g id="member-layer" transform="translate(-317 -231)">
+    <path id="BG" d="M56.25,0,75,32.5,56.25,65H18.75L0,32.5,18.75,0Z" transform="translate(382 231) rotate(90)" fill="url(#linear-gradient)"/>
+    <g id="Icon" transform="translate(5.061 4.428)">
+      <g id="Icon-2" data-name="Icon" transform="translate(324.273 246.425)">
+        <g id="Group_944" data-name="Group 944" transform="translate(0 0)">
+          <path id="Path_820" data-name="Path 820" d="M42.773,76.342V71.3H17.564v5.042H10v5.042A7.571,7.571,0,0,0,19.832,88.6a12.609,12.609,0,0,0,7.816,5.136v7.816H25.125a5.039,5.039,0,0,0-5.042,5.042H40.25a5.039,5.039,0,0,0-5.042-5.042H32.685V93.734A12.609,12.609,0,0,0,40.5,88.6a7.571,7.571,0,0,0,9.832-7.215V76.342Zm-25.208,9.61A4.574,4.574,0,0,1,13,81.383V78.86h4.568v2.523a12.522,12.522,0,0,0,.827,4.494A5.026,5.026,0,0,1,17.564,85.952Zm29.776-4.568a4.574,4.574,0,0,1-4.568,4.568,5.026,5.026,0,0,1-.827-.074,12.612,12.612,0,0,0,.827-4.494V78.86h4.568Z" transform="translate(-10 -71.3)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Shape" d="M6.484.2l1.328,2.82a.351.351,0,0,0,.263.2l2.97.452a.371.371,0,0,1,.194.625L9.089,6.5a.377.377,0,0,0-.1.324l.507,3.1a.353.353,0,0,1-.507.386L6.333,8.842a.335.335,0,0,0-.325,0L3.352,10.3a.353.353,0,0,1-.507-.386l.507-3.1a.377.377,0,0,0-.1-.324L1.1,4.3A.371.371,0,0,1,1.3,3.676l2.97-.452a.351.351,0,0,0,.263-.2L5.857.2a.343.343,0,0,1,.627,0Z" transform="translate(338.269 251.33)" fill="#e1af49" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

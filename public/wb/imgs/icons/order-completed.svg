@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_813" data-name="Rectangle 813" width="50" height="50" transform="translate(285 306)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="order-completed" transform="translate(-285 -306)" clip-path="url(#clip-path)">
+    <g id="Icon" transform="translate(292 314.484)">
+      <g id="Group_682" data-name="Group 682" transform="translate(0 8.268)">
+        <rect id="Rectangle_542" data-name="Rectangle 542" width="16.277" height="27.763" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_543" data-name="Rectangle 543" width="4.46" height="3.68" transform="translate(5.91)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_683" data-name="Group 683" transform="translate(16.28 24.285)">
+        <rect id="Rectangle_544" data-name="Rectangle 544" width="18.73" height="11.743" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_545" data-name="Rectangle 545" width="4.46" height="3.68" transform="translate(7.133)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_684" data-name="Group 684" transform="translate(16.277 16.277)">
+        <rect id="Rectangle_546" data-name="Rectangle 546" width="16.434" height="7.712" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_547" data-name="Rectangle 547" width="3.914" height="2.417" transform="translate(6.262)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_685" data-name="Group 685" transform="translate(7.653)">
+        <rect id="Rectangle_548" data-name="Rectangle 548" width="8.623" height="7.712" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_549" data-name="Rectangle 549" width="2.054" height="2.417" transform="translate(3.285)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_686" data-name="Group 686" transform="translate(16.28 3.252)">
+        <rect id="Rectangle_550" data-name="Rectangle 550" width="14.046" height="12.553" transform="translate(0)" fill="#a9bddc" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_551" data-name="Rectangle 551" width="3.343" height="3.933" transform="translate(5.35)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="57" viewBox="0 0 49 57">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.2" y1="-0.049" x2="0.841" y2="0.727" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffae77"/>
+      <stop offset="1" stop-color="#bf6000"/>
+    </linearGradient>
+  </defs>
+  <g id="bronze" transform="translate(-317.461 -231.254)">
+    <path id="BG" d="M42.75,0,57,24.5,42.75,49H14.25L0,24.5,14.25,0Z" transform="translate(366.461 231.254) rotate(90)" fill="url(#linear-gradient)"/>
+    <g id="Icon">
+      <path id="Icon-2" data-name="Icon" d="M13.293.457l2.976,6.318a.787.787,0,0,0,.59.449l6.654,1.013a.832.832,0,0,1,.434,1.4l-4.815,4.918a.845.845,0,0,0-.225.726l1.137,6.944a.791.791,0,0,1-1.136.865l-5.951-3.278a.752.752,0,0,0-.729,0L6.274,23.09a.791.791,0,0,1-1.136-.865l1.137-6.944a.845.845,0,0,0-.225-.726L1.235,9.637a.831.831,0,0,1,.434-1.4L8.323,7.224a.787.787,0,0,0,.59-.449L11.888.457a.768.768,0,0,1,1.4,0Z" transform="translate(329.466 248.254)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

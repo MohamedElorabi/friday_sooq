@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_814" data-name="Rectangle 814" width="50" height="50" transform="translate(285 307)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="order-confirmed" transform="translate(-285 -307)" clip-path="url(#clip-path)">
+    <g id="Icon" transform="translate(292 313)">
+      <rect id="Rectangle_540" data-name="Rectangle 540" width="35.9" height="26.09" transform="translate(0.004 10.927)" fill="#a9bddc" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_654" data-name="Path 654" d="M70.17,393.5h35.9L97.1,382.57H79.145Z" transform="translate(-70.17 -382.57)" fill="#a9bddc" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_541" data-name="Rectangle 541" width="5.914" height="6.496" transform="translate(15.716 10.927)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_655" data-name="Path 655" d="M109.15,393.917l5.91.011-1.7-10.663-2.871-.015Z" transform="translate(-93.43 -383.001)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

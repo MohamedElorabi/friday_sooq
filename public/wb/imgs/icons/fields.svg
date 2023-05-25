@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="fields" transform="translate(-24 -19)">
+    <g id="sections" transform="translate(24 19)">
+      <path id="Path_267" data-name="Path 267" d="M15.5,14.5v-5a1,1,0,0,0-1-1h-5a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1h5A1,1,0,0,0,15.5,14.5Z" fill="#fff"/>
+      <path id="Path_268" data-name="Path 268" d="M15.5,6V1a1,1,0,0,0-1-1h-5a1,1,0,0,0-1,1V6a1,1,0,0,0,1,1h5A1,1,0,0,0,15.5,6Z" fill="#fff"/>
+      <path id="Path_269" data-name="Path 269" d="M6,0H1A1,1,0,0,0,0,1V6A1,1,0,0,0,1,7H6A1,1,0,0,0,7,6V1A1,1,0,0,0,6,0Z" fill="#fff"/>
+      <path id="Path_270" data-name="Path 270" d="M23,0H18a1,1,0,0,0-1,1V6a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V1A1,1,0,0,0,23,0Z" fill="#fff"/>
+      <path id="Path_271" data-name="Path 271" d="M18,15.5h5a1,1,0,0,0,1-1v-5a1,1,0,0,0-1-1H18a1,1,0,0,0-1,1v5A1,1,0,0,0,18,15.5Z" fill="#fff"/>
+      <path id="Path_272" data-name="Path 272" d="M6,8.5H1a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1H6a1,1,0,0,0,1-1v-5A1,1,0,0,0,6,8.5Z" fill="#fff"/>
+      <path id="Path_273" data-name="Path 273" d="M15.5,17H1a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V18a1,1,0,0,0-1-1H15.5Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

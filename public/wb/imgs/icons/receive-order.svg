@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_811" data-name="Rectangle 811" width="50" height="50" transform="translate(289 307)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="receive-order" transform="translate(-289 -307)" clip-path="url(#clip-path)">
+    <g id="Icon" transform="translate(293 315)">
+      <ellipse id="Ellipse_135" data-name="Ellipse 135" cx="6.555" cy="6.555" rx="6.555" ry="6.555" transform="translate(27.91 21.377)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <ellipse id="Ellipse_136" data-name="Ellipse 136" cx="6.555" cy="6.555" rx="6.555" ry="6.555" transform="translate(0 21.377)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_658" data-name="Path 658" d="M721.553,438.1l-1-9.026,7.84-.633.337,1.044h7.73l-2.984,3.493-5.863,5.5Z" transform="translate(-698.063 -414.987)" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_559" data-name="Rectangle 559" width="12.498" height="3.237" transform="translate(14.387 23.113)" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_659" data-name="Path 659" d="M711.956,448.36s-.817-8.177,5.354-8.807,9.477,8.177,9.477,8.177Z" transform="translate(-685.232 -422.01)" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_660" data-name="Path 660" d="M785.51,448.117s5.463-2.043,7.953,1.153a5.3,5.3,0,0,0,6.653,1.487s-1.56-7.137-6.357-7.657S785.51,448.117,785.51,448.117Z" transform="translate(-785.51 -424.257)" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_661" data-name="Path 661" d="M792.254,412s-6.159.187-6.133,11.41c3.233.37,5.873,4.112,6.133,7.507Z" transform="translate(-777.87 -404.567)" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_662" data-name="Path 662" d="M711.952,420.32h17.166a1.953,1.953,0,0,1,1.952,1.952v.11a1.953,1.953,0,0,1-1.952,1.952H711.952A1.953,1.953,0,0,1,710,422.382v-.11A1.951,1.951,0,0,1,711.952,420.32Z" transform="translate(-688.813 -409.84)" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_663" data-name="Path 663" d="M740.777,420.32H747.3a2,2,0,0,1,2.007,2.007h0a2.005,2.005,0,0,1-2.007,2.007h-6.522a2.005,2.005,0,0,1-2.007-2.007h0A2.007,2.007,0,0,1,740.777,420.32Z" transform="translate(-717.583 -409.84)" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_560" data-name="Rectangle 560" width="10.165" height="9.85" transform="translate(30.327)" fill="#a9bddc" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_561" data-name="Rectangle 561" width="2.582" height="2.937" transform="translate(34.468 0.297)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_664" data-name="Path 664" d="M782.59,400.688a2.574,2.574,0,1,0,2.574-2.578A2.575,2.575,0,0,0,782.59,400.688Z" transform="translate(-772.062 -395.763)" fill="#fff" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_49" data-name="Line 49" x1="4.255" y2="1.651" transform="translate(14.885 1.413)" fill="#a9bdd3" stroke="#19589e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

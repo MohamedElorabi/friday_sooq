@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="pin" transform="translate(0 -0.367)">
+    <circle id="BG" cx="15" cy="15" r="15" transform="translate(0 0.367)" fill="#fc3552"/>
+    <g id="Group" transform="translate(18.856 4.537) rotate(45)">
+      <path id="Path_834" data-name="Path 834" d="M3.244-.045,6.6-.063,8.282-.072,6.594,1.682,6.577,5.173,9.928,6.9,9.919,8.646-.158,8.7-.15,6.954,3.218,5.191,3.235,1.7,1.564-.036Z" transform="translate(-0.008 -0.001)" fill="#fff"/>
+      <path id="Path_835" data-name="Path 835" d="M0,0,1.627,10.661,3.357-.018Z" transform="translate(3.321 10.181)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="featured-corner" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <circle id="BG" cx="15" cy="15" r="15" transform="translate(0)" fill="#1b8cff"/>
+  <g id="Group" transform="translate(6 6)">
+    <g id="Ellipse_206" data-name="Ellipse 206" transform="translate(0 12.283)" fill="rgba(255,255,255,0.28)" stroke="#fff" stroke-width="1">
+      <ellipse cx="9.5" cy="3" rx="9.5" ry="3" stroke="none"/>
+      <ellipse cx="9.5" cy="3" rx="9" ry="2.5" fill="none"/>
+    </g>
+    <path id="Path_830" data-name="Path 830" d="M894.135-20533.822l-3.995-14.373" transform="translate(-885.72 20550.623)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_831" data-name="Path 831" d="M894.688-20544.977l-1.786-6.293a4.027,4.027,0,0,1,4.249-.855c2.473.984,4.693-1.18,4.693-1.18l-.824,4.656,3.234,1.969s-3.044,2.5-5.961,1.25S894.688-20544.977,894.688-20544.977Z" transform="translate(-888.048 20553.305)" fill="#fff"/>
+  </g>
+</svg>
